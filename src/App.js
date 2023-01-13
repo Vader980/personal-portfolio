@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from '/Users/vader980/personal-portfolio/src/WhatsApp Image 2023-01-12 at 11.54.06.jpeg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { NavBar } from "./components/NavBar";

@@ -3,6 +3,7 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from '/Users/vader980/personal-portfolio/src/reporting-functionality.jpg';
 import projImg2 from '/Users/vader980/personal-portfolio/src/music player.jpeg';
 import projImg3 from '/Users/vader980/personal-portfolio/src/kdrama.webp';
+import projImg4 from '/Users/vader980/personal-portfolio/src/2023-01-13 22.48.14.jpg';
 import 'animate.css/animate.min.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -27,7 +28,7 @@ export const Projects = () => {
     {
       title: "Encrypt and Decrypt files, text, and images",
       description: "Created an application that uses ASCII to securely encrypt and decrypt files, text, and images, demonstrating skills in data security and encryption techniques and improving the security of company data, reducing the risk of data breaches by 20%.",
-      imgUrl: projImg1,
+      imgUrl: projImg4,
     },
    
   ];
